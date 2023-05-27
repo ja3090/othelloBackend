@@ -7,7 +7,6 @@
     "dev": "cross-env NODE_ENV=development ts-node-dev index.ts",
     "start": "cross-env NODE_ENV=production node src/index.js"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "@types/socket.io": "^3.0.2",
